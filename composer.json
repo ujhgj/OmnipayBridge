@@ -1,5 +1,5 @@
 {
-    "name": "payum/omnipay-bridge",
+    "name": "ujhgj/omnipay-bridge",
     "type": "library",
     "description": "This  bridge allows you to use omnipay gateways but in payum like way.",
     "keywords": ["payment", "omnipay"],
